@@ -170,6 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Epub and output
+# Epub, text input files and output
 *.epub
+*.txt
 out/
